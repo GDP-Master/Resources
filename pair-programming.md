@@ -9,5 +9,12 @@ Setting up pairs:
 * Ask students to rate their programming experience, pair based on that.
 
 Articles:
+* [For Writing Software, a Buddy System](https://www.nytimes.com/2009/09/20/jobs/20pre.html)
 * [Buddy Programming](https://dzone.com/articles/buddy-programming-1): end of the day code review. Also some good insights into making Pair Programming work.
 * [Etiquette for Pair Programming](https://dzone.com/articles/etiquette-for-pair-programming)
+
+Online Pairing Tools:
+* Floobits
+  - JetBrains plugin
+* Atom Teletype
+* VS Code Live Share
