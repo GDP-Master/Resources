@@ -8,5 +8,6 @@ Setting up pairs:
 * Don't leave high performing and low performing kids working together for an extended period.
 * Ask students to rate their programming experience, pair based on that.
 
+Articles:
 * [Buddy Programming](https://dzone.com/articles/buddy-programming-1): end of the day code review. Also some good insights into making Pair Programming work.
 * [Etiquette for Pair Programming](https://dzone.com/articles/etiquette-for-pair-programming)
